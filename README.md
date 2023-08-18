@@ -1,2 +1,2 @@
-# Password_Genrator
+# Password_Generator
 Stacks Used: HTML CSS JavaScript
